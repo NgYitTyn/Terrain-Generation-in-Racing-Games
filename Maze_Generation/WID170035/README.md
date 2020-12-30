@@ -3,11 +3,10 @@
 Original [code](https://catlikecoding.com/unity/tutorials/maze/) by Catlike Coding
 
 Maze generation using Recursive Backtracking Algorithm
-![alt text](RBA.jpg)
+![RBA](./RBA.JPG)
 
 Maze generation using Prim's Algorithm
-![alt text](PA.jpg)
-
+![PA](./PA.JPG)
 
 ## Comparison between Recursive Backtracking Algorithm (RBA) and Prim's Algorithm (PA) with 10 x 10 maze (in secs)
 | Algorithm|  RBA  |  PA   |
